@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "236217873797",
+    "firebase_url": "https://cricdroid-e1eab.firebaseio.com",
+    "project_id": "cricdroid-e1eab",
+    "storage_bucket": "cricdroid-e1eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236217873797:android:db084cb574805dd1",
+        "android_client_info": {
+          "package_name": "com.vivekraideveloper01vivekrai.cricdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236217873797-lsaocbpdcu0f42no2ldlponok0igqhpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vivekraideveloper01vivekrai.cricdroid",
+            "certificate_hash": "01e09bf00319c1b2c3414c9fe5a7940d45be4848"
+          }
+        },
+        {
+          "client_id": "236217873797-b5smmim7c77htv0hc5nsgadui8nfiu4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw0qjDtLSH5TXDZIr2mNABsC9xfanR7q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236217873797-b5smmim7c77htv0hc5nsgadui8nfiu4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
